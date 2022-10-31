@@ -89,6 +89,13 @@ h4 {
   font-size: 1rem;
   font-weight: bold;
 }
+.social-icons{
+  margin: 0 3%;
+}
+
+.nav-social-media:link {
+  color: #06283D;
+}
 
 /* title image */
 .my-image {
@@ -212,6 +219,8 @@ margin-bottom: 5%;
 }
 
 
+
+
  @media (max-width: 1200px) {
   h1 {
     font-size: 2rem;
@@ -231,7 +240,7 @@ margin-bottom: 5%;
   }
 
   .cta-text{
-    font-size: 1.5rem;
+    font-size: 1rem;
     line-height: 1.3
   }
 
@@ -239,4 +248,4 @@ margin-bottom: 5%;
     font-size: 0.8rem;
     line-height: 1.5;
   }
-} 
+}
