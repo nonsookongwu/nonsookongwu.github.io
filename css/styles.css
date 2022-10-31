@@ -212,7 +212,7 @@ margin-bottom: 5%;
 }
 
 
-@media (max-width: 1200px) {
+ @media (max-width: 1200px) {
   h1 {
     font-size: 2rem;
     line-height: 1;
@@ -239,4 +239,4 @@ margin-bottom: 5%;
     font-size: 0.8rem;
     line-height: 1.5;
   }
-}
+} 
